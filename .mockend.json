@@ -1,7 +1,7 @@
 {
   "Offer": {
     "name": {
-      "string": {}
+      "loremWords": { "minLength": 5, "maxLength": 20 }
     },
     "offerType": {
       "string": [
